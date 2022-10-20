@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663642552 source:d:\kuliah\pmdp\problem2\main.c
+	<stdio.h>
+	<stdlib.h>
+
